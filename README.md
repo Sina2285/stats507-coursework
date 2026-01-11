@@ -1,2 +1,4 @@
 # stats507-coursework
 DATASCI507-Winter 2026-Sina Bonakdar
+
+This repository is made by Sina Bonakdar to upload course materials including homeworks and class projects for DATASCI507 course. This is a data science course named as Data Science and Analytics using python. This course surveys data science tools and frameworks that are currently used in academia and industry. The first part of this course is an accelerated introduction to the Python programming language, with an emphasis on using object-oriented and functional programming techniques for data analysis. The second part covers methods for handling structured data (regular expressions, HTML/JSON, SQL), data visualization, numerical computing, version control, and the UNIX/Linux command line. The third part of this course is an introduction to deep learning and/or large-scale distributed computing. This course is presented by Dr. Xian Zhang, xianz@umich.edu. 
